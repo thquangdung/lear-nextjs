@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>pages/index.tsx</code>
+            Welcome to&nbsp;
+            <code className={styles.code}>nextjs project</code>
           </p>
           <div>
             <a
